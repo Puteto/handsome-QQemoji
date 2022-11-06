@@ -1,0 +1,1143 @@
+info:
+  namespace: "emoji"
+font_images:
+  aini:
+    permission: aini
+    show_in_gui: true
+    path: "font/emoji/aini"
+    scale_ratio: 9
+    y_position: 8
+  am:
+    permission: am
+    show_in_gui: true
+    path: "font/emoji/am"
+    scale_ratio: 9
+    y_position: 8
+  azgc:
+    permission: azgc
+    show_in_gui: true
+    path: "font/emoji/azgc"
+    scale_ratio: 9
+    y_position: 8
+  bainian:
+    permission: bainian
+    show_in_gui: true
+    path: "font/emoji/bainian"
+    scale_ratio: 9
+    y_position: 8
+  baiy:
+    permission: baiy
+    show_in_gui: true
+    path: "font/emoji/baiy"
+    scale_ratio: 9
+    y_position: 8
+  bangbangt:
+    permission: bangbangt
+    show_in_gui: true
+    path: "font/emoji/bangbangt"
+    scale_ratio: 9
+    y_position: 8
+  banzz:
+    permission: banzz
+    show_in_gui: true
+    path: "font/emoji/banzz"
+    scale_ratio: 9
+    y_position: 8
+  baofu:
+    permission: baofu
+    show_in_gui: true
+    path: "font/emoji/baofu"
+    scale_ratio: 9
+    y_position: 8
+  baojin:
+    permission: baojin
+    show_in_gui: true
+    path: "font/emoji/baojin"
+    scale_ratio: 9
+    y_position: 8
+  bb:
+    permission: bb
+    show_in_gui: true
+    path: "font/emoji/bb"
+    scale_ratio: 9
+    y_position: 8
+  bianxing:
+    permission: bianxing
+    show_in_gui: true
+    path: "font/emoji/bianxing"
+    scale_ratio: 9
+    y_position: 8
+  bixin:
+    permission: bixin
+    show_in_gui: true
+    path: "font/emoji/bixin"
+    scale_ratio: 9
+    y_position: 8
+  bp:
+    permission: bp
+    show_in_gui: true
+    path: "font/emoji/bp"
+    scale_ratio: 9
+    y_position: 8
+  bq:
+    permission: bq
+    show_in_gui: true
+    path: "font/emoji/bq"
+    scale_ratio: 9
+    y_position: 8
+  bs:
+    permission: bs
+    show_in_gui: true
+    path: "font/emoji/bs"
+    scale_ratio: 9
+    y_position: 8
+  bt:
+    permission: bt
+    show_in_gui: true
+    path: "font/emoji/bt"
+    scale_ratio: 9
+    y_position: 8
+  bu:
+    permission: bu
+    show_in_gui: true
+    path: "font/emoji/bu"
+    scale_ratio: 9
+    y_position: 8
+  bx:
+    permission: bx
+    show_in_gui: true
+    path: "font/emoji/bx"
+    scale_ratio: 9
+    y_position: 8
+  bz:
+    permission: bz
+    show_in_gui: true
+    path: "font/emoji/bz"
+    scale_ratio: 9
+    y_position: 8
+  caiwang:
+    permission: caiwang
+    show_in_gui: true
+    path: "font/emoji/caiwang"
+    scale_ratio: 9
+    y_position: 8
+  cb:
+    permission: cb
+    show_in_gui: true
+    path: "font/emoji/cb"
+    scale_ratio: 9
+    y_position: 8
+  cd:
+    permission: cd
+    show_in_gui: true
+    path: "font/emoji/cd"
+    scale_ratio: 9
+    y_position: 8
+  cg:
+    permission: cg
+    show_in_gui: true
+    path: "font/emoji/cg"
+    scale_ratio: 9
+    y_position: 8
+  ch:
+    permission: ch
+    show_in_gui: true
+    path: "font/emoji/ch"
+    scale_ratio: 9
+    y_position: 8
+  cha:
+    permission: cha
+    show_in_gui: true
+    path: "font/emoji/cha"
+    scale_ratio: 9
+    y_position: 8
+  chi:
+    permission: chi
+    show_in_gui: true
+    path: "font/emoji/chi"
+    scale_ratio: 9
+    y_position: 8
+  chitang:
+    permission: chitang
+    show_in_gui: true
+    path: "font/emoji/chitang"
+    scale_ratio: 9
+    y_position: 8
+  chongbai:
+    permission: chongbai
+    show_in_gui: true
+    path: "font/emoji/chongbai"
+    scale_ratio: 9
+    y_position: 8
+  cj:
+    permission: cj
+    show_in_gui: true
+    path: "font/emoji/cj"
+    scale_ratio: 9
+    y_position: 8
+  cp:
+    permission: cp
+    show_in_gui: true
+    path: "font/emoji/cp"
+    scale_ratio: 9
+    y_position: 8
+  cs:
+    permission: cs
+    show_in_gui: true
+    path: "font/emoji/cs"
+    scale_ratio: 9
+    y_position: 8
+  cy:
+    permission: cy
+    show_in_gui: true
+    path: "font/emoji/cy"
+    scale_ratio: 9
+    y_position: 8
+  dacall:
+    permission: dacall
+    show_in_gui: true
+    path: "font/emoji/dacall"
+    scale_ratio: 9
+    y_position: 8
+  dan:
+    permission: dan
+    show_in_gui: true
+    path: "font/emoji/dan"
+    scale_ratio: 9
+    y_position: 8
+  dao:
+    permission: dao
+    show_in_gui: true
+    path: "font/emoji/dao"
+    scale_ratio: 9
+    y_position: 8
+  db:
+    permission: db
+    show_in_gui: true
+    path: "font/emoji/db"
+    scale_ratio: 9
+    y_position: 8
+  dg:
+    permission: dg
+    show_in_gui: true
+    path: "font/emoji/dg"
+    scale_ratio: 9
+    y_position: 8
+  dk:
+    permission: dk
+    show_in_gui: true
+    path: "font/emoji/dk"
+    scale_ratio: 9
+    y_position: 8
+  dl:
+    permission: dl
+    show_in_gui: true
+    path: "font/emoji/dl"
+    scale_ratio: 9
+    y_position: 8
+  doge:
+    permission: doge
+    show_in_gui: true
+    path: "font/emoji/doge"
+    scale_ratio: 9
+    y_position: 8
+  dx:
+    permission: dx
+    show_in_gui: true
+    path: "font/emoji/dx"
+    scale_ratio: 9
+    y_position: 8
+  dy:
+    permission: dy
+    show_in_gui: true
+    path: "font/emoji/dy"
+    scale_ratio: 9
+    y_position: 8
+  dz:
+    permission: dz
+    show_in_gui: true
+    path: "font/emoji/dz"
+    scale_ratio: 9
+    y_position: 8
+  emm:
+    permission: emm
+    show_in_gui: true
+    path: "font/emoji/emm"
+    scale_ratio: 9
+    y_position: 8
+  fan:
+    permission: fan
+    show_in_gui: true
+    path: "font/emoji/fan"
+    scale_ratio: 9
+    y_position: 8
+  fd:
+    permission: fd
+    show_in_gui: true
+    path: "font/emoji/fd"
+    scale_ratio: 9
+    y_position: 8
+  fendou:
+    permission: fendou
+    show_in_gui: true
+    path: "font/emoji/fendou"
+    scale_ratio: 9
+    y_position: 8
+  fj:
+    permission: fj
+    show_in_gui: true
+    path: "font/emoji/fj"
+    scale_ratio: 9
+    y_position: 8
+  fn:
+    permission: fn
+    show_in_gui: true
+    path: "font/emoji/fn"
+    scale_ratio: 9
+    y_position: 8
+  gg:
+    permission: gg
+    show_in_gui: true
+    path: "font/emoji/gg"
+    scale_ratio: 9
+    y_position: 8
+  gun:
+    permission: gun
+    show_in_gui: true
+    path: "font/emoji/gun"
+    scale_ratio: 9
+    y_position: 8
+  gy:
+    permission: gy
+    show_in_gui: true
+    path: "font/emoji/gy"
+    scale_ratio: 9
+    y_position: 8
+  gz:
+    permission: gz
+    show_in_gui: true
+    path: "font/emoji/gz"
+    scale_ratio: 9
+    y_position: 8
+  hanx:
+    permission: hanx
+    show_in_gui: true
+    path: "font/emoji/hanx"
+    scale_ratio: 9
+    y_position: 8
+  hb:
+    permission: hb
+    show_in_gui: true
+    path: "font/emoji/hb"
+    scale_ratio: 9
+    y_position: 8
+  hd:
+    permission: hd
+    show_in_gui: true
+    path: "font/emoji/hd"
+    scale_ratio: 9
+    y_position: 8
+  hec:
+    permission: hec
+    show_in_gui: true
+    path: "font/emoji/hec"
+    scale_ratio: 9
+    y_position: 8
+  hhd:
+    permission: hhd
+    show_in_gui: true
+    path: "font/emoji/hhd"
+    scale_ratio: 9
+    y_position: 8
+  hhsw:
+    permission: hhsw
+    show_in_gui: true
+    path: "font/emoji/hhsw"
+    scale_ratio: 9
+    y_position: 8
+  hn:
+    permission: hn
+    show_in_gui: true
+    path: "font/emoji/hn"
+    scale_ratio: 9
+    y_position: 8
+  hq:
+    permission: hq
+    show_in_gui: true
+    path: "font/emoji/hq"
+    scale_ratio: 9
+    y_position: 8
+  hs:
+    permission: hs
+    show_in_gui: true
+    path: "font/emoji/hs"
+    scale_ratio: 9
+    y_position: 8
+  huaduolian:
+    permission: huaduolian
+    show_in_gui: true
+    path: "font/emoji/huaduolian"
+    scale_ratio: 9
+    y_position: 8
+  huaix:
+    permission: huaix
+    show_in_gui: true
+    path: "font/emoji/huaix"
+    scale_ratio: 9
+    y_position: 8
+  hx:
+    permission: hx
+    show_in_gui: true
+    path: "font/emoji/hx"
+    scale_ratio: 9
+    y_position: 8
+  jh:
+    permission: jh
+    show_in_gui: true
+    path: "font/emoji/jh"
+    scale_ratio: 9
+    y_position: 8
+  jiaybs:
+    permission: jiaybs
+    show_in_gui: true
+    path: "font/emoji/jiaybs"
+    scale_ratio: 9
+    y_position: 8
+  jiayi:
+    permission: jiayi
+    show_in_gui: true
+    path: "font/emoji/jiayi"
+    scale_ratio: 9
+    y_position: 8
+  jiayou:
+    permission: jiayou
+    show_in_gui: true
+    path: "font/emoji/jiayou"
+    scale_ratio: 9
+    y_position: 8
+  jie:
+    permission: jie
+    show_in_gui: true
+    path: "font/emoji/jie"
+    scale_ratio: 9
+    y_position: 8
+  jingxia:
+    permission: jingxia
+    show_in_gui: true
+    path: "font/emoji/jingxia"
+    scale_ratio: 9
+    y_position: 8
+  jk:
+    permission: jk
+    show_in_gui: true
+    path: "font/emoji/jk"
+    scale_ratio: 9
+    y_position: 8
+  jl:
+    permission: jl
+    show_in_gui: true
+    path: "font/emoji/jl"
+    scale_ratio: 9
+    y_position: 8
+  ka:
+    permission: ka
+    show_in_gui: true
+    path: "font/emoji/ka"
+    scale_ratio: 9
+    y_position: 8
+  kb:
+    permission: kb
+    show_in_gui: true
+    path: "font/emoji/kb"
+    scale_ratio: 9
+    y_position: 8
+  kel:
+    permission: kel
+    show_in_gui: true
+    path: "font/emoji/kel"
+    scale_ratio: 9
+    y_position: 8
+  kf:
+    permission: kf
+    show_in_gui: true
+    path: "font/emoji/kf"
+    scale_ratio: 9
+    y_position: 8
+  kg:
+    permission: kg
+    show_in_gui: true
+    path: "font/emoji/kg"
+    scale_ratio: 9
+    y_position: 8
+  kk:
+    permission: kk
+    show_in_gui: true
+    path: "font/emoji/kk"
+    scale_ratio: 9
+    y_position: 8
+  kl:
+    permission: kl
+    show_in_gui: true
+    path: "font/emoji/kl"
+    scale_ratio: 9
+    y_position: 8
+  kuk:
+    permission: kuk
+    show_in_gui: true
+    path: "font/emoji/kuk"
+    scale_ratio: 9
+    y_position: 8
+  kun:
+    permission: kun
+    show_in_gui: true
+    path: "font/emoji/kun"
+    scale_ratio: 9
+    y_position: 8
+  kx:
+    permission: kx
+    show_in_gui: true
+    path: "font/emoji/kx"
+    scale_ratio: 9
+    y_position: 8
+  kzht:
+    permission: kzht
+    show_in_gui: true
+    path: "font/emoji/kzht"
+    scale_ratio: 9
+    y_position: 8
+  lb:
+    permission: lb
+    show_in_gui: true
+    path: "font/emoji/lb"
+    scale_ratio: 9
+    y_position: 8
+  lengh:
+    permission: lengh
+    show_in_gui: true
+    path: "font/emoji/lengh"
+    scale_ratio: 9
+    y_position: 8
+  lh:
+    permission: lh
+    show_in_gui: true
+    path: "font/emoji/lh"
+    scale_ratio: 9
+    y_position: 8
+  ll:
+    permission: ll
+    show_in_gui: true
+    path: "font/emoji/ll"
+    scale_ratio: 9
+    y_position: 8
+  lmht:
+    permission: lmht
+    show_in_gui: true
+    path: "font/emoji/lmht"
+    scale_ratio: 9
+    y_position: 8
+  lq:
+    permission: lq
+    show_in_gui: true
+    path: "font/emoji/lq"
+    scale_ratio: 9
+    y_position: 8
+  lw:
+    permission: lw
+    show_in_gui: true
+    path: "font/emoji/lw"
+    scale_ratio: 9
+    y_position: 8
+  lyj:
+    permission: lyj
+    show_in_gui: true
+    path: "font/emoji/lyj"
+    scale_ratio: 9
+    y_position: 8
+  mdfq:
+    permission: mdfq
+    show_in_gui: true
+    path: "font/emoji/mdfq"
+    scale_ratio: 9
+    y_position: 8
+  mg:
+    permission: mg
+    show_in_gui: true
+    path: "font/emoji/mg"
+    scale_ratio: 9
+    y_position: 8
+  mgx:
+    permission: mgx
+    show_in_gui: true
+    path: "font/emoji/mgx"
+    scale_ratio: 9
+    y_position: 8
+  mjl:
+    permission: mjl
+    show_in_gui: true
+    path: "font/emoji/mjl"
+    scale_ratio: 9
+    y_position: 8
+  mm:
+    permission: mm
+    show_in_gui: true
+    path: "font/emoji/mm"
+    scale_ratio: 9
+    y_position: 8
+  am:
+    permission: am
+    show_in_gui: true
+    path: "font/emoji/am"
+    scale_ratio: 9
+    y_position: 8
+  mwbq:
+    permission: mwbq
+    show_in_gui: true
+    path: "font/emoji/mwbq"
+    scale_ratio: 9
+    y_position: 8
+  my:
+    permission: my
+    show_in_gui: true
+    path: "font/emoji/my"
+    scale_ratio: 9
+    y_position: 8
+  na:
+    permission: na
+    show_in_gui: true
+    path: "font/emoji/na"
+    scale_ratio: 9
+    y_position: 8
+  ndhb:
+    permission: ndhb
+    show_in_gui: true
+    path: "font/emoji/ndhb"
+    scale_ratio: 9
+    y_position: 8
+  ng:
+    permission: ng
+    show_in_gui: true
+    path: "font/emoji/ng"
+    scale_ratio: 9
+    y_position: 8
+  nkt:
+    permission: nkt
+    show_in_gui: true
+    path: "font/emoji/nkt"
+    scale_ratio: 9
+    y_position: 8
+  nqct:
+    permission: nqct
+    show_in_gui: true
+    path: "font/emoji/nqct"
+    scale_ratio: 9
+    y_position: 8
+  nzqk:
+    permission: nzqk
+    show_in_gui: true
+    path: "font/emoji/nzqk"
+    scale_ratio: 9
+    y_position: 8
+  oy:
+    permission: oy
+    show_in_gui: true
+    path: "font/emoji/oy"
+    scale_ratio: 9
+    y_position: 8
+  pc:
+    permission: pc
+    show_in_gui: true
+    path: "font/emoji/pc"
+    scale_ratio: 9
+    y_position: 8
+  pj:
+    permission: pj
+    show_in_gui: true
+    path: "font/emoji/pj"
+    scale_ratio: 9
+    y_position: 8
+  pp:
+    permission: pp
+    show_in_gui: true
+    path: "font/emoji/pp"
+    scale_ratio: 9
+    y_position: 8
+  psj:
+    permission: psj
+    show_in_gui: true
+    path: "font/emoji/psj"
+    scale_ratio: 9
+    y_position: 8
+  px:
+    permission: px
+    show_in_gui: true
+    path: "font/emoji/px"
+    scale_ratio: 9
+    y_position: 8
+  pz:
+    permission: pz
+    show_in_gui: true
+    path: "font/emoji/pz"
+    scale_ratio: 9
+    y_position: 8
+  qd:
+    permission: qd
+    show_in_gui: true
+    path: "font/emoji/qd"
+    scale_ratio: 9
+    y_position: 8
+  qdqd:
+    permission: qdqd
+    show_in_gui: true
+    path: "font/emoji/qdqd"
+    scale_ratio: 9
+    y_position: 8
+  qiang:
+    permission: qiang
+    show_in_gui: true
+    path: "font/emoji/qiang"
+    scale_ratio: 9
+    y_position: 8
+  qiao:
+    permission: qiao
+    show_in_gui: true
+    path: "font/emoji/qiao"
+    scale_ratio: 9
+    y_position: 8
+  qidao:
+    permission: qidao
+    show_in_gui: true
+    path: "font/emoji/qidao"
+    scale_ratio: 9
+    y_position: 8
+  qingzhu:
+    permission: qingzhu
+    show_in_gui: true
+    path: "font/emoji/qingzhu"
+    scale_ratio: 9
+    y_position: 8
+  qq:
+    permission: qq
+    show_in_gui: true
+    path: "font/emoji/qq"
+    scale_ratio: 9
+    y_position: 8
+  qt:
+    permission: qt
+    show_in_gui: true
+    path: "font/emoji/qt"
+    scale_ratio: 9
+    y_position: 8
+  ruo:
+    permission: ruo
+    show_in_gui: true
+    path: "font/emoji/ruo"
+    scale_ratio: 9
+    y_position: 8
+  sa:
+    permission: sa
+    show_in_gui: true
+    path: "font/emoji/sa"
+    scale_ratio: 9
+    y_position: 8
+  se:
+    permission: se
+    show_in_gui: true
+    path: "font/emoji/se"
+    scale_ratio: 9
+    y_position: 8
+  shd:
+    permission: shd
+    show_in_gui: true
+    path: "font/emoji/shd"
+    scale_ratio: 9
+    y_position: 8
+  shengqi:
+    permission: shengqi
+    show_in_gui: true
+    path: "font/emoji/shengqi"
+    scale_ratio: 9
+    y_position: 8
+  shl:
+    permission: shl
+    show_in_gui: true
+    path: "font/emoji/shl"
+    scale_ratio: 9
+    y_position: 8
+  shq:
+    permission: shq
+    show_in_gui: true
+    path: "font/emoji/shq"
+    scale_ratio: 9
+    y_position: 8
+  shuai:
+    permission: shuai
+    show_in_gui: true
+    path: "font/emoji/shuai"
+    scale_ratio: 9
+    y_position: 8
+  shui:
+    permission: shui
+    show_in_gui: true
+    path: "font/emoji/shui"
+    scale_ratio: 9
+    y_position: 8
+  shx:
+    permission: shx
+    show_in_gui: true
+    path: "font/emoji/shx"
+    scale_ratio: 9
+    y_position: 8
+  sr:
+    permission: sr
+    show_in_gui: true
+    path: "font/emoji/sr"
+    scale_ratio: 9
+    y_position: 8
+  tianping:
+    permission: tianping
+    show_in_gui: true
+    path: "font/emoji/tianping"
+    scale_ratio: 9
+    y_position: 8
+  tl:
+    permission: tl
+    show_in_gui: true
+    path: "font/emoji/tl"
+    scale_ratio: 9
+    y_position: 8
+  tnl:
+    permission: tnl
+    show_in_gui: true
+    path: "font/emoji/tnl"
+    scale_ratio: 9
+    y_position: 8
+  tp:
+    permission: tp
+    show_in_gui: true
+    path: "font/emoji/tp"
+    scale_ratio: 9
+    y_position: 8
+  ts:
+    permission: ts
+    show_in_gui: true
+    path: "font/emoji/ts"
+    scale_ratio: 9
+    y_position: 8
+  tt:
+    permission: tt
+    show_in_gui: true
+    path: "font/emoji/tt"
+    scale_ratio: 9
+    y_position: 8
+  tuu:
+    permission: tuu
+    show_in_gui: true
+    path: "font/emoji/tuu"
+    scale_ratio: 9
+    y_position: 8
+  tx:
+    permission: tx
+    show_in_gui: true
+    path: "font/emoji/tx"
+    scale_ratio: 9
+    y_position: 8
+  ty:
+    permission: ty
+    show_in_gui: true
+    path: "font/emoji/ty"
+    scale_ratio: 9
+    y_position: 8
+  whl:
+    permission: whl
+    show_in_gui: true
+    path: "font/emoji/whl"
+    scale_ratio: 9
+    y_position: 8
+  wl:
+    permission: wl
+    show_in_gui: true
+    path: "font/emoji/wl"
+    scale_ratio: 9
+    y_position: 8
+  wn:
+    permission: wn
+    show_in_gui: true
+    path: "font/emoji/wn"
+    scale_ratio: 9
+    y_position: 8
+  wosl:
+    permission: wosl
+    show_in_gui: true
+    path: "font/emoji/wosl"
+    scale_ratio: 9
+    y_position: 8
+  wq:
+    permission: wq
+    show_in_gui: true
+    path: "font/emoji/wq"
+    scale_ratio: 9
+    y_position: 8
+  ws:
+    permission: ws
+    show_in_gui: true
+    path: "font/emoji/ws"
+    scale_ratio: 9
+    y_position: 8
+  wul:
+    permission: wul
+    show_in_gui: true
+    path: "font/emoji/wul"
+    scale_ratio: 9
+    y_position: 8
+  ww:
+    permission: ww
+    show_in_gui: true
+    path: "font/emoji/ww"
+    scale_ratio: 9
+    y_position: 8
+  wx:
+    permission: wx
+    show_in_gui: true
+    path: "font/emoji/wx"
+    scale_ratio: 9
+    y_position: 8
+  wxkl:
+    permission: wxkl
+    show_in_gui: true
+    path: "font/emoji/wxkl"
+    scale_ratio: 9
+    y_position: 8
+  wyx:
+    permission: wyx
+    show_in_gui: true
+    path: "font/emoji/wyx"
+    scale_ratio: 9
+    y_position: 8
+  wzm:
+    permission: wzm
+    show_in_gui: true
+    path: "font/emoji/wzm"
+    scale_ratio: 9
+    y_position: 8
+  xhx:
+    permission: xhx
+    show_in_gui: true
+    path: "font/emoji/xhx"
+    scale_ratio: 9
+    y_position: 8
+  xia:
+    permission: xia
+    show_in_gui: true
+    path: "font/emoji/xia"
+    scale_ratio: 9
+    y_position: 8
+  xianqi:
+    permission: xianqi
+    show_in_gui: true
+    path: "font/emoji/xianqi"
+    scale_ratio: 9
+    y_position: 8
+  xig:
+    permission: xig
+    show_in_gui: true
+    path: "font/emoji/xig"
+    scale_ratio: 9
+    y_position: 8
+  xin:
+    permission: xin
+    show_in_gui: true
+    path: "font/emoji/xin"
+    scale_ratio: 9
+    y_position: 8
+  xjj:
+    permission: xjj
+    show_in_gui: true
+    path: "font/emoji/xjj"
+    scale_ratio: 9
+    y_position: 8
+  xk:
+    permission: xk
+    show_in_gui: true
+    path: "font/emoji/xk"
+    scale_ratio: 9
+    y_position: 8
+  xs:
+    permission: xs
+    show_in_gui: true
+    path: "font/emoji/xs"
+    scale_ratio: 9
+    y_position: 8
+  xu:
+    permission: xu
+    show_in_gui: true
+    path: "font/emoji/xu"
+    scale_ratio: 9
+    y_position: 8
+  xyx:
+    permission: xyx
+    show_in_gui: true
+    path: "font/emoji/xyx"
+    scale_ratio: 9
+    y_position: 8
+  yanhua:
+    permission: yanhua
+    show_in_gui: true
+    path: "font/emoji/yanhua"
+    scale_ratio: 9
+    y_position: 8
+  yao:
+    permission: yao
+    show_in_gui: true
+    path: "font/emoji/yao"
+    scale_ratio: 9
+    y_position: 8
+  yb:
+    permission: yb
+    show_in_gui: true
+    path: "font/emoji/yb"
+    scale_ratio: 9
+    y_position: 8
+  ybyb:
+    permission: ybyb
+    show_in_gui: true
+    path: "font/emoji/ybyb"
+    scale_ratio: 9
+    y_position: 8
+  yhh:
+    permission: yhh
+    show_in_gui: true
+    path: "font/emoji/yhh"
+    scale_ratio: 9
+    y_position: 8
+  yiw:
+    permission: yiw
+    show_in_gui: true
+    path: "font/emoji/yiw"
+    scale_ratio: 9
+    y_position: 8
+  yl:
+    permission: yl
+    show_in_gui: true
+    path: "font/emoji/yl"
+    scale_ratio: 9
+    y_position: 8
+  youl:
+    permission: youl
+    show_in_gui: true
+    path: "font/emoji/youl"
+    scale_ratio: 9
+    y_position: 8
+  yt:
+    permission: yt
+    show_in_gui: true
+    path: "font/emoji/yt"
+    scale_ratio: 9
+    y_position: 8
+  yun:
+    permission: yun
+    show_in_gui: true
+    path: "font/emoji/yun"
+    scale_ratio: 9
+    y_position: 8
+  yx:
+    permission: yx
+    show_in_gui: true
+    path: "font/emoji/yx"
+    scale_ratio: 9
+    y_position: 8
+  zhd:
+    permission: zhd
+    show_in_gui: true
+    path: "font/emoji/zhd"
+    scale_ratio: 9
+    y_position: 8
+  zhem:
+    permission: zhem
+    show_in_gui: true
+    path: "font/emoji/zhem"
+    scale_ratio: 9
+    y_position: 8
+  zhh:
+    permission: zhh
+    show_in_gui: true
+    path: "font/emoji/zhh"
+    scale_ratio: 9
+    y_position: 8
+  zhm:
+    permission: zhm
+    show_in_gui: true
+    path: "font/emoji/zhm"
+    scale_ratio: 9
+    y_position: 8
+  zj:
+    permission: zj
+    show_in_gui: true
+    path: "font/emoji/zj"
+    scale_ratio: 9
+    y_position: 8
+  zk:
+    permission: zk
+    show_in_gui: true
+    path: "font/emoji/zk"
+    scale_ratio: 9
+    y_position: 8
+  zq:
+    permission: zq
+    show_in_gui: true
+    path: "font/emoji/zq"
+    scale_ratio: 9
+    y_position: 8
+  zt:
+    permission: zt
+    show_in_gui: true
+    path: "font/emoji/zt"
+    scale_ratio: 9
+    y_position: 8
+  zxfx:
+    permission: zxfx
+    show_in_gui: true
+    path: "font/emoji/zxfx"
+    scale_ratio: 9
+    y_position: 8
+  zy:
+    permission: zy
+    show_in_gui: true
+    path: "font/emoji/zy"
+    scale_ratio: 9
+    y_position: 8
+  zyj:
+    permission: zyj
+    show_in_gui: true
+    path: "font/emoji/zyj"
+    scale_ratio: 9
+    y_position: 8
+  flag_cn:
+    permission: flag_cn
+    show_in_gui: true
+    path: "font/emoji/flag_cn"
+    scale_ratio: 9
+    y_position: 8
+  flag_hk:
+    permission: flag_hk
+    show_in_gui: true
+    path: "font/emoji/flag_hk"
+    scale_ratio: 9
+    y_position: 8
+  flag_mo:
+    permission: flag_mo
+    show_in_gui: true
+    path: "font/emoji/flag_mo"
+    scale_ratio: 9
+    y_position: 8
+  flag_us:
+    permission: flag_us
+    show_in_gui: true
+    path: "font/emoji/flag_us"
+    scale_ratio: 9
+    y_position: 8
+  flag_uk:
+    permission: flag_uk
+    show_in_gui: true
+    path: "font/emoji/flag_uk"
+    scale_ratio: 9
+    y_position: 8
